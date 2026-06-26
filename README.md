@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Yogesh and I'm a passionate dev from India</p>
+<p align="left">My name is Yogesh and I'm a passionate developer from India</p>
 
 ###
 
